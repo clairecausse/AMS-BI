@@ -1,0 +1,27 @@
+3 séances sur la partie : préparation
+
+- pour chaque variable identifié sa nature et le codage (catégorielle, quantitatif)
+
+
+- analyse descriptive univarié (stats quantitatives-> moyenne, médiane, écart-type, quartiles. Stats qualitatives->mode et table de contingence/graphiques-> distribution(loi normale,loi de puissance...)
+
+valeurs manquantes/associées : suppr de colonne ou ligne ou remplacer par une stat ou tirage aléatoire en respectant la distribution original et pour qualitative est d'utiliser un symbole spécifique
+
+
+4 séances sur la partie : analyse
+
+Analyse descriptive bivariéee :
+- quantitative x quantitative : nuage de point pour savoir s'il existe une relation entre.
+
+Corrélation : pearson, spearman, kendall par exemple
+les graphs et les stats sont complémentaires.
+
+- qualitative x qualitative : Matrice de confusion, carte de chaleur, stats : mesure d'association.
+
+- qualitative x quantitative :
+
+boxplot ou violon pour la distribution de la valeur numerique pour une certaine valeur de la catégorie.
+
+stats : mesure d'association spé pour ce test.
+
+définir un traitement qui consite a nettoyé les données et apres resoudre et observer apres une nouvelle fois de facon itérative pour voir le changement.
